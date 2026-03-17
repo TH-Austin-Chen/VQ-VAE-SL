@@ -1,5 +1,5 @@
 ﻿# ECE 285 Final Project — Industrial Anomaly Detection
-## By Tien-Hao Chen, Yi-Chi Wang, Jasmine Lou
+## By Tien-Hao Chen, Yu-Chi Wang, Jasmine Lou
 This project contains two main notebook pipelines for image anomaly detection:
 1. **Baseline VAE** (`vae.ipynb`)
 2. **VQ-VAE + Structural Likelihood** (`vqvae.ipynb`)
