@@ -1,4 +1,4 @@
-﻿# ECE 285 Final Project — Industrial Anomaly Detection
+﻿# VQ-VAE-SL: Structural Likelihood-Based Anomaly Detection for Industrial Visual Inspection
 ## By Tien-Hao Chen, Yu-Chi Wang, Jasmine Lou
 This project contains two main notebook pipelines for image anomaly detection:
 1. **Baseline VAE** (`vae.ipynb`)
